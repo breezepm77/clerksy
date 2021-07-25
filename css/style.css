@@ -1,0 +1,195 @@
+.header{
+    position: absolute;
+    margin-left: 80px;
+height: 98px;
+left: 0%;
+right: 0%;
+top: 0px;
+width: 1440px;
+border-radius: 0px;
+background-color: #163A24;
+}
+.header--img{
+    margin-left: 110px;
+    margin-top: 20px;
+}
+.header--heading{
+    margin-left: 909px;
+    margin-top: 41px;
+    display: flex;
+    list-style-type: none;
+}
+.header__heading--item{
+     margin-left: 24px;
+    margin-top: -80px;
+    color: #FBFAF7;
+}
+.header--link{
+    position: absolute;
+height: 48px;
+left: 0%;
+right: 0%;
+top: 0px;
+width: 171px;
+background: #198C36;
+border-radius: 160px;
+text-decoration: none;
+color: #FBFAF7;
+text-align: center;
+font-size: 24px;
+padding-top: 15px;
+margin-left: 1189px;
+margin-top: 15px;
+}
+.wrapper__dropped{
+  margin-top: 98px;
+  margin-left: 72px;
+}
+.wrapper--drowwer{
+    display: flex;
+    list-style-type: none;
+}
+.wrapper__drowwer--item--img{
+    margin-top: 119px;
+    margin-left: 228px;
+}
+.wrapper__drowwer--item--heading{
+    font-size: 48px;
+    margin-top: -340px;
+    margin-left: 818px;
+}
+.wrapper__drowwer--item--text{
+    margin-left: 818px;
+}
+.wrapper__wrodded--item--img{
+    margin-top: 630px;
+    margin-left: -320px;
+}
+.wrapper__wrodded--item--heading{
+margin-left: -798px;
+font-size: 48px;
+margin-top: -300px;
+}
+.wrapper--logo{
+    margin-top: 250px;
+}
+.wrapper__logo--img{
+    margin-left: 330px;
+}
+.wrapper__logo--heading{
+    font-size: 48px;
+    margin-left: 550px;
+}
+.wrapper--ximoya-logo{
+    background-color: #163A24;
+    margin-top: 120px;
+    margin-left: 80px;
+    width: 1440px;
+    height: 568px;
+}
+.wrapper__ximoya-logo--heading{
+    padding-top: 66px;
+    padding-left: 320px;
+    font-size: 48px;
+    color:#FBFAF7;
+}
+.wrapper--shaulin{
+    width: 1440px;
+    height: 695px;
+    background-color: #F2EFE6;
+    margin-left: 80px;
+    margin-top: -40px;
+}
+.wrapper__shaulin--heading{
+    text-align: center;
+    font-size: 48px;
+}
+.wrapper__shaulin--headink{
+    text-align: center;
+    margin-top: -40px;
+    font-size: 48px;
+}
+.wrapper__shaulin--text{
+    text-align: center;
+    margin-top: -10px;
+}
+.wrapper__shaulin--img{
+    padding-left: 130px;
+    padding-top: 80px;
+}
+.wrapper--counter{
+    list-style-type: none;
+}
+.wrapper__counter--item--img{
+    margin-top: 150px;
+    margin-left: 720px;
+}
+.wrapper__counter--item--heading{
+    font-size: 48px;
+    margin-top: -330px;
+    margin-left: 228px;
+}
+.wrapper__counter--item--text{
+    margin-left: 228px;
+}
+.wrapper__ximoya-papka--heading{
+    font-size: 48px;
+    margin-top: 270px;
+    margin-left: 550px;
+}
+.wrapper__ximoya-papka--text{
+    margin-left: 740px;
+    margin-top: -15px;
+}
+.wrapper__ximoya-papka--img{
+margin-left: 100px;
+}
+.wrapper__ximoya-papka--komputer{
+    display: flex;
+    margin-left: 220px;
+    list-style-type: none;
+}
+.wrapper__ximoya-papka--img{
+    margin-top: 50px;
+}
+.wrapper__futbolist--heading{
+    font-size: 48px;
+    margin-left: 348px;
+    margin-top: 200px;
+}
+.wrapper__futbolist--text{
+    margin-top: -10px;
+    margin-left: 348px;
+}
+.wrapper__futbolist--img{
+    margin-left: 720px;
+    margin-top: -290px;
+}
+.wrapper__futbolist--link{
+    position:  absolute;
+    width: 201px;
+    height: 37px;
+    background-color: #198C36;
+    border-radius: 160px;
+    text-decoration: none;
+    color: #FBFAF7;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 20px;
+    margin-top: 10px;
+    margin-left: 340px;
+}
+.wrapper--krisa{
+    list-style-type: none;
+}
+.wrapper__krisa--item--img{
+margin-left: 80px;
+}
+.wrapper__krisa--item--img2{
+    margin-top: -5px;
+    margin-left: 80px;
+}
+.wrapper__krisa--item--img3{
+    margin-left: 80px;
+    margin-top: -15px;
+}
